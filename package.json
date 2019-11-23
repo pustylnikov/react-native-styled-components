@@ -1,0 +1,25 @@
+{
+  "name": "react-native-styled-components",
+  "version": "2.1.0",
+  "description": "",
+  "main": "index.js",
+  "author": "yura.pustylnikov@gmail.com",
+  "license": "MIT",
+  "homepage": "https://github.com/pustylnikov/react-native-styled-components",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pustylnikov/react-native-styled-components.git"
+  },
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "keywords": [
+    "react-native",
+    "styled-components"
+  ],
+  "devDependencies": {
+    "react": "^16.9.0",
+    "react-native": "^0.60.5"
+  }
+}
