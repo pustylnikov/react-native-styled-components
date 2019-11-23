@@ -17,9 +17,5 @@
   "keywords": [
     "react-native",
     "styled-components"
-  ],
-  "devDependencies": {
-    "react": "^16.9.0",
-    "react-native": "^0.60.5"
-  }
+  ]
 }
